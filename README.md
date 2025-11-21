@@ -7,7 +7,7 @@
 🧪 I am deeply interested in science, artificial intelligence, and how to utilise technology to combat the effects (or the root causes) of climate change.
 
 🛠️ I’m currently working on:
-  - my own [website](https://mrivar.github.io/), hosted right here on GitHub, where you can dive into my [source code](https://github.com/mrivar/mrivar.github.io-code)—completely open for everyone to explore. **Using: Vue, Nuxt, Typescript**
+  - my own [website](https://mrivar.github.io/), hosted right here on GitHub, where you can dive into my [source code](https://github.com/mrivar/mrivar.github.io-code)—completely open for everyone to explore. Using: **Vue, Nuxt, Typescript**
   - an app to modify FIT, GPX, and other similar file types. As a Strava nerd, I am obsessed with its data tracking, and sometimes find myself annoyed by certain errors in fitness devices' tracking. I am developing a solution to fix some of these errors, and I am aiming to eventually make this an app that anybody could use. Using: **Vue, Nuxt, Typescript, Python, FastApi**
 
 <!--
