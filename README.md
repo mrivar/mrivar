@@ -2,13 +2,13 @@
 
 🌍 I'm a Full Stack Developer with a Master's in Artificial Intelligence.
 
-🧑‍💻 With nearly 10 years of software dev experience under my belt, I've focused my career on developing both scalable backend systems, ML solutions, and user-friendly front-ends (as best as I can given my poor design skills!); as well as building robust architectures.
+🧑‍💻 With nearly 10 years of software dev experience under my belt, I've focused my career on developing both scalable backend systems, ML solutions, and user-friendly front-ends (as best as I can given my scarce design skills!); as well as building robust architectures.
 
 🧪 I am deeply interested in science, artificial intelligence, and how to utilise technology to combat the effects (or the root causes) of climate change.
 
 🛠️ I’m currently working on:
   - my own [website](https://mrivar.github.io/), hosted right here on GitHub, where you can dive into my [source code](https://github.com/mrivar/mrivar.github.io-code)—completely open for everyone to explore. **Using: Vue, Nuxt, Typescript**
-  - an app to modify FIT, GPX, and other similar file types. As a Strava nerd, I am obsessed with its data tracking, and sometimes find myself annoyed by certain errors in fitness devices' tracking. I am developing a solution to fix some of these errors, and I am aiming to eventually make this an app that anybody could use. **Using: Vue, Nuxt, Typescript, Python, FastApi**
+  - an app to modify FIT, GPX, and other similar file types. As a Strava nerd, I am obsessed with its data tracking, and sometimes find myself annoyed by certain errors in fitness devices' tracking. I am developing a solution to fix some of these errors, and I am aiming to eventually make this an app that anybody could use. Using: **Vue, Nuxt, Typescript, Python, FastApi**
 
 <!--
 **mrivar/mrivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
